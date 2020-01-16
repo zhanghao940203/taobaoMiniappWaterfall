@@ -1,0 +1,4 @@
+<view class="waterfall-cell" style="margin-left:{{left ? '20':'10'}}rpx;margin-right:{{left ? '10':'20'}}rpx">
+    <image class="img" src="{{item.image}}" mode="widthFix" />
+    <text class="title" max-lines="{{2}}">{{item.text}}</text>
+</view>

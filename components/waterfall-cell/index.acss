@@ -1,0 +1,24 @@
+.waterfall-cell {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20rpx;
+  padding: 20rpx;
+  border-radius: 20rpx;
+  background-color: #ffffff;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.img {
+  width: 40vw;
+  height:auto;
+  background-color: #eeeeee;
+  margin-bottom: 25rpx;
+  border-radius: 20rpx;
+}
+.title {
+  text-align: center;
+  font-size: 32rpx;
+  height: 75rpx;
+}

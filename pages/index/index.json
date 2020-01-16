@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "wrapper-view": "@ali/kobex-component/lib/wrapper-view/index",
+    "waterfall1": "/components/2column-waterfall/index",
+    "waterfall2": "/components/calcu-height-waterfall/index"
+  }
+}

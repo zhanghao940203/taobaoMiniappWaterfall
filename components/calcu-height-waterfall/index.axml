@@ -1,0 +1,12 @@
+<view class="waterfall2">
+    <view class="column2">
+        <block a:for="{{list1}}" a:for-index="index" a:for-item="item">
+            <cell item="{{item}}" left="{{true}}"/>
+        </block>
+    </view>
+    <view class="column2">
+        <block a:for="{{list2}}" a:for-index="index" a:for-item="item">
+            <cell item="{{item}}" left="{{false}}"/>
+        </block>
+    </view>
+</view>

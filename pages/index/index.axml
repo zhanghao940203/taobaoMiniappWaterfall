@@ -1,0 +1,4 @@
+<view class="page">
+  <!-- <waterfall1 list={{list}}/> -->
+  <waterfall2  list1={{list1}} list2={{list2}}/>
+</view>

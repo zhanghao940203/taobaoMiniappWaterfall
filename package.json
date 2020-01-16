@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "appx-compile": "cd .. && npm run appx-compile"
+  },
+  "dependencies": {
+    "@ali/kobex-component": "1",
+    "@ali/kobex-fetch": "1",
+    "@ali/kobex-util": "1",
+    "@ali/tracert-alsc-ta": "2",
+    "@ali/kobex-exlog-hook": "1",
+    "tslib": "1"
+  },
+  "tnpm": {
+    "mode": "npm"
+  }
+}
